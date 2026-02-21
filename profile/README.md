@@ -47,7 +47,7 @@
 </table>
 
 ### 📚 [Лекции](https://github.com/gregkorneev-BMSTU/Lecture-2.git)
-### [Тесты](https://github.com/gregkorneev-BMSTU/Test-2.git)
+### ✏️ [Тесты](https://github.com/gregkorneev-BMSTU/Test-2.git)
 
 ---
 
