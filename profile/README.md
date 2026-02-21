@@ -46,7 +46,6 @@
 </tr>
 </table>
 
-
 ---
 
 # Семестр 1
@@ -65,6 +64,12 @@
 <h3 align="center">lab</h3>
 
 <table>
+
+<tr>
+<td>4</td>
+<td>Лабораторная работа 4.2 (вариант 22)</td>
+<td><a href="https://github.com/IU5-14B/lab4-part2_var22">Открыть</a></td>
+</tr>
 
 <tr>
 <td>6</td>
@@ -98,14 +103,32 @@
 
 <tr>
 <td>11</td>
+<td>Лабораторная работа 11.1 (вариант 6)</td>
+<td><a href="https://github.com/IU5-14B/lab11_part1_var6">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
 <td>Лабораторная работа 11.2</td>
 <td><a href="https://github.com/IU5-14B/lab11-part2">Открыть</a></td>
 </tr>
 
 <tr>
 <td>11</td>
+<td>Лабораторная работа 11.2 (вариант 6)</td>
+<td><a href="https://github.com/IU5-14B/lab11_part2_var6">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
 <td>Лабораторная работа 11.3</td>
 <td><a href="https://github.com/IU5-14B/lab11-part3">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Лабораторная работа 11.3 (вариант 6)</td>
+<td><a href="https://github.com/IU5-14B/lab11_part3_var6">Открыть</a></td>
 </tr>
 
 </table>
@@ -120,9 +143,21 @@
 <table>
 
 <tr>
+<td>9</td>
+<td>Семинар 9 (вариант 22)</td>
+<td><a href="https://github.com/IU5-14B/sem9_var22">Открыть</a></td>
+</tr>
+
+<tr>
 <td>10</td>
 <td>Семинар 10 (вариант 22)</td>
 <td><a href="https://github.com/IU5-14B/sem10_var22">Открыть</a></td>
+</tr>
+
+<tr>
+<td>13</td>
+<td>Семинар 13 (вариант 22)</td>
+<td><a href="https://github.com/IU5-14B/sem13_var22">Открыть</a></td>
 </tr>
 
 <tr>
@@ -135,6 +170,12 @@
 <td>17</td>
 <td>Семинар 17</td>
 <td><a href="https://github.com/IU5-14B/sem17">Открыть</a></td>
+</tr>
+
+<tr>
+<td>18</td>
+<td>Семинар 18</td>
+<td><a href="https://github.com/IU5-14B/sem18">Открыть</a></td>
 </tr>
 
 <tr>
