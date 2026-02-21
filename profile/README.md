@@ -200,7 +200,6 @@
 </tr>
 </table>
 
-### 📚 [Отчеты/Тесты](https://github.com/IU5-14B/Reports-Tests)
 ### 🏠 Домашняя работа 1 (вариант 22)
 
 <table>
