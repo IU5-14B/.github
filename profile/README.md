@@ -224,6 +224,8 @@
 <td><a href="https://github.com/IU5-14B/task2_var22">Открыть</a></td>
 </tr>
 
+</table>
+
 <h2 align="center">📚Архив ОП</h3>
 
 <table>
@@ -243,8 +245,6 @@
 <td>Тесты ОП</td>
 <td><a href="https://github.com/gregkorneev-BMSTU/Tests-1.git">Открыть</a></td>
 </tr>
-
-</table>
 
 </table>
 </details>
