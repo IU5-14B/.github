@@ -1,4 +1,4 @@
-# IU5-14B • Репозитории группы
+# IU5-24B • Репозитории команды
 
 # Семестр 2
 
@@ -13,20 +13,19 @@
 
 <tr>
 <td>1</td>
-<td>Лабораторная работа 1</td>
+<td>Лабораторная работа 1 (вариант 21)</td>
 <td><a href="https://github.com/IU5-14B/s2_lab1_var21">Открыть</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Лабораторная работа 2</td>
+<td>Лабораторная работа 2 (вариант 21)</td>
 <td><a href="https://github.com/IU5-14B/s2_lab2_var21">Открыть</a></td>
 </tr>
 
 </table>
 
 </td>
-
 
 <td valign="top" width="50%">
 
@@ -44,7 +43,6 @@
 </table>
 
 </td>
-
 </tr>
 </table>
 
@@ -59,7 +57,6 @@
 
 <br>
 
-
 <table>
 <tr>
 
@@ -71,25 +68,25 @@
 
 <tr>
 <td>6</td>
-<td>Лабораторная работа 6</td>
+<td>Лабораторная работа 6 (вариант 22)</td>
 <td><a href="https://github.com/IU5-14B/lab6_var22">Открыть</a></td>
 </tr>
 
 <tr>
 <td>7</td>
-<td>Лабораторная работа 7</td>
+<td>Лабораторная работа 7.2 (вариант 22)</td>
 <td><a href="https://github.com/IU5-14B/lab7-part2_var22">Открыть</a></td>
 </tr>
 
 <tr>
 <td>8</td>
-<td>Лабораторная работа 8</td>
+<td>Лабораторная работа 8 (вариант 22)</td>
 <td><a href="https://github.com/IU5-14B/lab8_var22">Открыть</a></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td>Лабораторная работа 9</td>
+<td>Лабораторная работа 9 (вариант 22)</td>
 <td><a href="https://github.com/IU5-14B/lab9_var22">Открыть</a></td>
 </tr>
 
@@ -116,7 +113,6 @@
 </td>
 
 
-
 <td valign="top" width="50%">
 
 <h3 align="center">sem</h3>
@@ -125,7 +121,7 @@
 
 <tr>
 <td>10</td>
-<td>Семинар 10</td>
+<td>Семинар 10 (вариант 22)</td>
 <td><a href="https://github.com/IU5-14B/sem10_var22">Открыть</a></td>
 </tr>
 
@@ -143,13 +139,13 @@
 
 <tr>
 <td>18</td>
-<td>Семинар 18</td>
-<td><a href="https://github.com/IU5-14B/sem18">Открыть</a></td>
+<td>Семинар 18 (вариант 6)</td>
+<td><a href="https://github.com/IU5-14B/sem18_var6">Открыть</a></td>
 </tr>
 
 <tr>
 <td>19</td>
-<td>Семинар 19</td>
+<td>Семинар 19 (вариант 6)</td>
 <td><a href="https://github.com/IU5-14B/sem19_var6">Открыть</a></td>
 </tr>
 
