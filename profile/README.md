@@ -198,4 +198,28 @@
 </table>
 
 ### 📚 [Отчеты/Тесты](https://github.com/IU5-14B/Reports-Tests)
+### 🏠 Домашняя работа 1 (вариант 22)
+
+<table>
+<tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
+
+<tr>
+<td>1</td>
+<td>Домашняя работа</td>
+<td><a href="https://github.com/IU5-14B/HW_var22">Открыть</a></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Задание 1</td>
+<td><a href="https://github.com/IU5-14B/task1_var22">Открыть</a></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Задание 2</td>
+<td><a href="https://github.com/IU5-14B/task2_var22">Открыть</a></td>
+</tr>
+
+</table>
 </details>
