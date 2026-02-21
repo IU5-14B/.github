@@ -224,5 +224,27 @@
 <td><a href="https://github.com/IU5-14B/task2_var22">Открыть</a></td>
 </tr>
 
+<h2 align="center">📚Архив ОП</h3>
+
+<table>
+<th>Название</th><th>Ссылка</th></tr>
+
+<tr>
+<td>Отчеты ОП</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Reports-1_OP.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>Лекции ОП</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Lecture-Theory_OP.git">Открыть</a></td>
+</tr>
+
+<tr>
+<td>Тесты ОП</td>
+<td><a href="https://github.com/gregkorneev-BMSTU/Tests-1.git">Открыть</a></td>
+</tr>
+
+</table>
+
 </table>
 </details>
