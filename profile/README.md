@@ -1,44 +1,9 @@
 # IU5-14B • Репозитории группы
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h3 align="center">sem</h3>
+# Семестр 2
 
 <table>
-<tr><th>№</th><th>Тема</th><th>Ссылка</th></tr>
-
-<!-- Добавляйте семинары сюда -->
-
 <tr>
-<td>1</td>
-<td>Семинар 1</td>
-<td><a href="https://github.com/IU5-14B/s2_sem1">Открыть</a></td>
-</tr>
-
-<tr>
-<td>16</td>
-<td>Семинар 16</td>
-<td><a href="https://github.com/IU5-14B/sem16">Открыть</a></td>
-</tr>
-
-<tr>
-<td>17</td>
-<td>Семинар 17</td>
-<td><a href="https://github.com/IU5-14B/sem17">Открыть</a></td>
-</tr>
-
-<tr>
-<td>18</td>
-<td>Семинар 18</td>
-<td><a href="https://github.com/IU5-14B/sem18">Открыть</a></td>
-</tr>
-
-</table>
-
-</td>
-
 <td valign="top" width="50%">
 
 <h3 align="center">lab</h3>
@@ -46,29 +11,40 @@
 <table>
 <tr><th>№</th><th>Название</th><th>Ссылка</th></tr>
 
-<!-- Добавляйте лабораторные сюда -->
-
 <tr>
-<td>10</td>
-<td>Лабораторная работа 10</td>
-<td><a href="https://github.com/IU5-14B/lab10-case2">Открыть</a></td>
+<td>1</td>
+<td>Лабораторная работа 1</td>
+<td><a href="https://github.com/IU5-14B/s2_lab1_var21">Открыть</a></td>
 </tr>
 
 <tr>
-<td>11.2</td>
-<td>Лабораторная работа 11.2</td>
-<td><a href="https://github.com/IU5-14B/lab11-part2">Открыть</a></td>
-</tr>
-
-<tr>
-<td>11.3</td>
-<td>Лабораторная работа 11.3</td>
-<td><a href="https://github.com/IU5-14B/lab11-part3">Открыть</a></td>
+<td>2</td>
+<td>Лабораторная работа 2</td>
+<td><a href="https://github.com/IU5-14B/s2_lab2_var21">Открыть</a></td>
 </tr>
 
 </table>
 
 </td>
+
+
+<td valign="top" width="50%">
+
+<h3 align="center">sem</h3>
+
+<table>
+<tr><th>№</th><th>Тема</th><th>Ссылка</th></tr>
+
+<tr>
+<td>1</td>
+<td>Семинар 1</td>
+<td><a href="https://github.com/IU5-14B/s2_sem1">Открыть</a></td>
+</tr>
+
+</table>
+
+</td>
+
 </tr>
 </table>
 
@@ -83,14 +59,75 @@
 
 <br>
 
+
 <table>
 <tr>
+
+<td valign="top" width="50%">
+
+<h3 align="center">lab</h3>
+
+<table>
+
+<tr>
+<td>6</td>
+<td>Лабораторная работа 6</td>
+<td><a href="https://github.com/IU5-14B/lab6_var22">Открыть</a></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Лабораторная работа 7</td>
+<td><a href="https://github.com/IU5-14B/lab7-part2_var22">Открыть</a></td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Лабораторная работа 8</td>
+<td><a href="https://github.com/IU5-14B/lab8_var22">Открыть</a></td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Лабораторная работа 9</td>
+<td><a href="https://github.com/IU5-14B/lab9_var22">Открыть</a></td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Лабораторная работа 10</td>
+<td><a href="https://github.com/IU5-14B/lab10-case2">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Лабораторная работа 11.2</td>
+<td><a href="https://github.com/IU5-14B/lab11-part2">Открыть</a></td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Лабораторная работа 11.3</td>
+<td><a href="https://github.com/IU5-14B/lab11-part3">Открыть</a></td>
+</tr>
+
+</table>
+
+</td>
+
+
 
 <td valign="top" width="50%">
 
 <h3 align="center">sem</h3>
 
 <table>
+
+<tr>
+<td>10</td>
+<td>Семинар 10</td>
+<td><a href="https://github.com/IU5-14B/sem10_var22">Открыть</a></td>
+</tr>
 
 <tr>
 <td>16</td>
@@ -110,33 +147,10 @@
 <td><a href="https://github.com/IU5-14B/sem18">Открыть</a></td>
 </tr>
 
-</table>
-
-</td>
-
-
-<td valign="top" width="50%">
-
-<h3 align="center">lab</h3>
-
-<table>
-
 <tr>
-<td>10</td>
-<td>Лабораторная работа 10</td>
-<td><a href="https://github.com/IU5-14B/lab10-case2">Открыть</a></td>
-</tr>
-
-<tr>
-<td>11.2</td>
-<td>Лабораторная работа 11.2</td>
-<td><a href="https://github.com/IU5-14B/lab11-part2">Открыть</a></td>
-</tr>
-
-<tr>
-<td>11.3</td>
-<td>Лабораторная работа 11.3</td>
-<td><a href="https://github.com/IU5-14B/lab11-part3">Открыть</a></td>
+<td>19</td>
+<td>Семинар 19</td>
+<td><a href="https://github.com/IU5-14B/sem19_var6">Открыть</a></td>
 </tr>
 
 </table>
@@ -144,27 +158,6 @@
 </td>
 
 </tr>
-</table>
-
-
----
-
-### 👥 Участники
-
-<table>
-
-<tr>
-<th>Студент</th>
-<th>GitHub</th>
-</tr>
-
-<tr>
-<td>Григорий Корнеев</td>
-<td><a href="https://github.com/gregkorneev">Открыть профиль</a></td>
-</tr>
-
-<!-- Добавляйте участников сюда -->
-
 </table>
 
 </details>
