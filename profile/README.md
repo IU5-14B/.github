@@ -53,7 +53,7 @@
 </tr>
 
 <tr>
-<td>3</td>
+<td>4</td>
 <td>Семинар 4 (вариант 23)</td>
 <td><a href="https://github.com/IU5-14B/s2_sem4_var23.git">Открыть</a></td>
 </tr>
