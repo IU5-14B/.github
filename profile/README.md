@@ -58,6 +58,12 @@
 <td><a href="https://github.com/IU5-14B/s2_sem4_var23.git">Открыть</a></td>
 </tr>
 
+<tr>
+<td>5</td>
+<td>Семинар 5 (вариант 23)</td>
+<td><a href="https://github.com/IU5-14B/s2_sem5-var23.git">Открыть</a></td>
+</tr>
+
 </table>
 
 </td>
