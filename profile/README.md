@@ -64,6 +64,12 @@
 <td><a href="https://github.com/IU5-14B/s2_sem5-var23.git">Открыть</a></td>
 </tr>
 
+<tr>
+<td>6</td>
+<td>Семинар 6 (вариант 23)</td>
+<td><a href="https://github.com/IU5-14B/s2_sem6_var23.git">Открыть</a></td>
+</tr>
+
 </table>
 
 </td>
