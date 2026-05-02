@@ -30,12 +30,6 @@
 </tr>
 
 <tr>
-<td>7</td>
-<td>Лабораторная работа 7</td>
-<td><a href="https://github.com/gregkorneev-BMSTU/s2_lab7.git">Открыть</a></td>
-</tr>
-
-<tr>
 <td>8</td>
 <td>DB_MVP</td>
 <td><a href="https://github.com/IU5-14B/DB_MVP.git">Открыть</a></td>
