@@ -23,10 +23,17 @@
 <td><a href="https://github.com/IU5-14B/s2_lab2_var21">Открыть</a></td>
 </tr>
 
+
 <tr>
 <td>3-6</td>
 <td>WEB-AGENT</td>
 <td><a href="https://github.com/IU5-14B/web-agency">Открыть</a></td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Лабораторная работа 7 (вариант 21)</td>
+<td><a href="https://github.com/IU5-14B/s2_lab7_var23.git">Открыть</a></td>
 </tr>
 
 <tr>
